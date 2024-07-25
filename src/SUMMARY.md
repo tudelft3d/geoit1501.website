@@ -9,5 +9,5 @@
   - [Midterm](./deliverables/midterm.md)
   - [Final](./deliverables/final.md)
   - [Peer-review](./deliverables/peer-review.md)
-- [Grading](./assessment.md)
+- [Grading](./grading.md)
 - [FAQ](./faq.md)
