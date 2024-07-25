@@ -5,8 +5,8 @@
 
 
 
-|    | title | client(s) | supervisors(s) | 
-|----|-------|-----------|----------------|
+|    | projet | client(s) | supervisors(s) | 
+|----|--------|-----------|----------------|
 | 1  | Indoor navigation: To Go or Not to Go, that’s the question | | Edward Verbree |
 | 2  | Developing the 3D city model of Delft | [Gemeente Delft](https://delft.nl) | [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux) + [Gina Stavropoulou](https://3d.bk.tudelft.nl/gstavropoulou/) |
 | 3  | Gaussian splatting something? | | ? |
