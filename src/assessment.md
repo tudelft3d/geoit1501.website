@@ -1,3 +1,5 @@
+
+
 # Assessment and Grading
 
 In order to pass the course, students have to:
@@ -18,7 +20,7 @@ academic year again.
 
 ### Rubric for report report
 
-|  | Insufficient                                                                                          | Fair                                                                                                 | Excellent                                                                                              |
+|  | Insufficient  | Fair  | Excellent |
 |-|-|-|-|
 | **Introducing the idea/Problem statement** | Neither implicit nor explicit reference is made to the topic or purpose of the report.                      | Readers are aware of the overall problem, challenge, or topic of the report.                           | The topic is introduced very well, and groundwork is laid as to the direction of the report.            |
 | **Structure**                | The report appears to have no direction, with subtopics appearing disjointed.                               | There is a basic flow from one section to the next, but not all sections or paragraphs follow in a natural or logical order. | The report goes from general ideas to specific conclusions. Transitions tie sections together, as well as adjacent paragraphs. |

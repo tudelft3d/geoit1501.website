@@ -5,7 +5,6 @@
 
 ## 1. Midterm report
 
-Each project team submits a midterm report.
 The midterm report should provide the skeleton of the final report: a preliminary table of content of the final report with, for each section, a text drafted or a text indicating the intended content of that particular section.
 
 A template for the report will be provided to obtain uniformity in the structure of all synthesis reports.
