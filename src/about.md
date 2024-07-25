@@ -1,4 +1,6 @@
 
+# Course Information
+
 <!-- toc -->
 
 ## Responsible staff
@@ -14,14 +16,12 @@ __Hugo Ledoux__
 [<i class="fa fa-envelope"></i>](mailto:h.ledoux@tudelft.nl)
 
 
-## Course Information
 
 
-**Required for**: GEO2011/GEO2020
+## Expected prior knowledge 
+Geomatics students should have gained 30 EC of core geomatics courses (Core courses are: GEO1000, GEO1001, GEO1002, GEO1003, GEO1004, GEO1006, GEO1007, GEO1009, GEO1015, and GEO1016). External students are admitted if they have similar knowledge and skills based on a certified course list.
 
-**Expected prior knowledge**: Geomatics students should have gained 30 EC of core geomatics courses (Core courses are: GEO1000, GEO1001, GEO1002, GEO1003, GEO1004, GEO1006, GEO1007, GEO1009, GEO1015, and GEO1016). External students are admitted if they have similar knowledge and skills based on a certified course list.
-
-**Course Contents**: 
+## Course Contents
 The project aims at investigating a real-world geo-information problem. Geomatics teachers in cooperation with a company, governmental agency, or a TU Delft research group that is not involved in the Geomatics program the clients define the problem. The problem will be addressed by a group of students. The project enables you to gain further knowledge and skills in acquisition, processing, analysis and interpretation, and visualization of geo-information as well as insights in the running of a project in which diverse stakeholders are involved.
 
 **Study Goals**:
