@@ -15,4 +15,6 @@ The launch of a project should be described in a report. This, so-called Project
 
 ```admonish info
 The PID has to be submitted to your TU Delft supervisor(s) and to the appropriate section in Brightspace.
+
 Example Project Initiation Document are available on Brightspace.
+```

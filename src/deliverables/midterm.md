@@ -45,15 +45,6 @@ results of your project. This helps you to conduct your oral
 presentation and eases the completion of the final report.
 
 
-## 3. Midterm team peer-review
 
-Your team has to review another's team midterm report. The outcome of
-the review is shared with supervisors and students.
-
-During the midterm presentations, your team is also tasked to ask at
-least two questions to the team whose work you reviewed.
-
-**Submission:** your midterm team peer-review report should be
-submitted through the appropriate section in Brightspace.
 
 

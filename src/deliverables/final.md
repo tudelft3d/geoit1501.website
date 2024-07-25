@@ -24,9 +24,8 @@ The final report/code/docs should be submitted through the
 appropriate section in Brightspace. In case of code, it suffices to put a URL in the report.
 
 After green light of your TU Delft
-mentors, the final report should also be uploaded to the TU Delft
-repository:
-<https://repository.tudelft.nl/islandora/search/?collection=education>.
+mentors, the final report should also be uploaded to the [TU Delft
+repository](https://repository.tudelft.nl) ([how to do that](https://tudelft-lib-research.gitbook.io/tu-delft-library-user-instructions/thesis/how-to-upload-your-thesis)).
 ```
 <!-- TODO: dead link, to check -->
 
@@ -44,7 +43,7 @@ The idea is that you present and discuss the engineering details of the project,
 Feedback will be provided on the content of the research as well as on the presentation.
 
 
-## 3. Final outreach presentation on Geomatics day
+## 3. Final outreach presentation (during the Geomatics day)
 
 This is the presentation for a general audience, and thus should be accessible and understandable by laypersons.
 
