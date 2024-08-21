@@ -1,4 +1,4 @@
-# Rubric for the work performed
+# Rubric for the work performed by an individual student
 
 | | Technical Quality | Commitment | Attitude | Initiative | Management of Resources | Communication |
 |-|-------------------|------------|----------|------------|-------------------------|---------------|
