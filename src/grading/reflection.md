@@ -1,5 +1,5 @@
 
-# Rubric for the individual reflections
+# Rubric for the individual reflection
 
 |  | No reflection | Weak | Sufficient | Good | Excellent |
 |--|---------------|------|------------|------|-----------|
