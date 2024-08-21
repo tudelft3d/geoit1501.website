@@ -5,7 +5,7 @@
 
 ## Responsible staff
 
-__Bastiaan van Loeven__
+__Bastiaan van Loenen__
 [<i class="fa fa-envelope"></i>](mailto:b.vanloenen@tudelft.nl)
 
 __Edward Verbree__
@@ -46,10 +46,6 @@ The grading is detailed in the [rubrics](./grading/index.md).
 In order to pass the course, students also have to attend and take part in the group's midterm presentation, and two final presentations (one technical presentation for Geomatics staff/students and one outreach presentation on Geomatics Day), and do the team peer review (on both the midterm report and final technical presentation).
 
 To pass the course, a group mark and an individual mark of at least a 5.75 is required. Students that fail the course have to do a repair assignment for a maximum grade of a 6.0 for the course.
-
-## Enrolment / Application 
-BIS: only for Geomatics students (and Approved International 'Study Abroad' Students).
-
 
 ## Course evaluation
 For the course evaluations, see the Brightspace page 'Evaluations TUD' (requires enrolment).
