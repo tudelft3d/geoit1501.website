@@ -16,6 +16,8 @@ Examples of outputs that can be considered:
 1. a dataset that the client will be able to use in the future
 1. a website that the client wanted to have built
 
+In the report, please include the [task distribution table](./grading/task_distribution.md).
+
 See [example reports from previous years](https://www.tudelft.nl/onderwijs/opleidingen/masters/gm/msc-geomatics/programme/synthesis-project/).
 
 

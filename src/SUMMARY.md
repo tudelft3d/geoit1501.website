@@ -14,5 +14,6 @@
   - [Rubric group report](./grading/report.md)
   - [Rubric individual work](./grading/work.md)
   - [Rubric reflection](./grading/reflection.md)
+  - [Task distribution](./grading/task_distribution.md)
 - [Templates](./templates.md)
 - [FAQ](./faq.md)
