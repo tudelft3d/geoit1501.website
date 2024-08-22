@@ -15,5 +15,5 @@
   - [Rubric individual work](./grading/work.md)
   - [Rubric reflection](./grading/reflection.md)
   - [Task distribution](./grading/task_distribution.md)
-- [Templates](./templates.md)
+- [Templates](./templates/index.md)
 - [FAQ](./faq.md)
