@@ -13,8 +13,3 @@ The launch of a project should be described in a report. This, so-called Project
 - Communication plan (project meetings, distribution list of minutes of meetings, consultation moments with client)
 - Short CVs of team members (so that the client knows who you are)
 
-```admonish info
-The PID has to be submitted to your TU Delft supervisor(s) and to the appropriate section in Brightspace.
-
-Example Project Initiation Document are available on Brightspace.
-```

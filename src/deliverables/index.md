@@ -8,3 +8,8 @@ The deliverables are in 4 categories:
 1. [Midterm report+presentation](./midterm.md)
 1. [Final presentations (technical + Geomatics Day)](./final.md)
 1. [Peer-review](./peer-review.md)
+
+
+```admonish info
+Each team will get a [SURFdrive link](https://surfdrive.surf.nl) where they can upload all their deliverables.
+```

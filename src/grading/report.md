@@ -1,5 +1,5 @@
 
-# Rubric for final report/deliverables
+# Rubric for final group report/deliverables
 
 |  | Insufficient  | Fair  | Excellent |
 |-|-|-|-|

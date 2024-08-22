@@ -18,7 +18,7 @@
 | 2024-09-13 | 17:00 | PID document                 | SURFdrive |
 | 2024-09-26 | 17:00 | midterm report               | SURFdrive |
 | 2024-09-27 | 17:00 | team peer-review report      | SURFdrive |
+| 2024-09-27 | 17:00 | personal reflection          | email to TUDelft supervisors |
 | 2024-11-01 | 17:00 | final draft report           | SURFdrive |
-| 2024-11-04 | 17:00 | review of peer-reviewed team |           |
 | 2024-11-07 | 17:00 | upload final presentation    | SURFdrive |
 | 2024-11-15 | 17:00 | upload final deliverables    | TUDelft repository | 

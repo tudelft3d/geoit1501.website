@@ -20,12 +20,9 @@ See [example reports from previous years](https://www.tudelft.nl/onderwijs/oplei
 
 
 ```admonish info
-The final report/code/docs should be submitted through the
-appropriate section in Brightspace. In case of code, it suffices to put a URL in the report.
+No need to copy the code in the report, put it on GitHub and give a URL in the report.
 
-After green light of your TU Delft
-mentors, the final report should also be uploaded to the [TU Delft
-repository](https://repository.tudelft.nl) ([how to do that](https://tudelft-lib-research.gitbook.io/tu-delft-library-user-instructions/thesis/how-to-upload-your-thesis)).
+After green light of your TU Delft supervisors, the final report should also be uploaded to the [TU Delft repository](https://repository.tudelft.nl) ([how to do that](https://tudelft-lib-research.gitbook.io/tu-delft-library-user-instructions/thesis/how-to-upload-your-thesis)).
 ```
 <!-- TODO: dead link, to check -->
 
@@ -37,23 +34,18 @@ The audience is your fellow students and the staff of Geomatics.
 The idea is that you present and discuss the engineering details of the project, and you can assume that the audience is knowledgeable and thus there is no need to simplify the talk.
 
 - 15min presentation
+- 5min reflection/question from the [peer-review team](./peer-review.md)
 - 5min reflection/question from the supervisors
-- 10min general discussion
+- 5min general discussion
 
 Feedback will be provided on the content of the research as well as on the presentation.
 
 
 ## 3. Final outreach presentation (during the Geomatics day)
 
-This is the presentation for a general audience, and thus should be accessible and understandable by laypersons.
+This is the presentation for a general audience, and thus should be accessible and understandable by laypersons (who work in the field of Geomatics)
 
 - 10min presentation
-- 5min question from the audience.Each project team presents the final report in a 10-minute presentation,
-followed by a 5-minute reflection by the client. This is followed by 10
-minutes plenary discussion. The presentation is in the Berlage rooms.
+- 5min question from the audience.
 
-You present your project for an extended audience consisting of:
-clients, supervisors, all colleague students, interested professionals.
 
-**Submission:** The final presentation should be uploaded before 9
-November, 11am through the appropriate section in Brightspace.
