@@ -34,8 +34,8 @@ Also include your presentation the process/management of the project:
 The presentation is 15min, followed by questions from the peer-review team and questions/comments from the supervisors.
 The audience consists of all GEO1101 students, the supervisors, and possibly the clients.
 
-``` admonish info
-**Recommendation:** Prepare at this stage a written summary of the
+``` admonish info title="Recommendation"
+Prepare at this stage a written summary of the
 results of your project. This helps you to conduct your oral
 presentation and eases the completion of the final report.
 ```
