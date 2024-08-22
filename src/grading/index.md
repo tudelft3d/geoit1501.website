@@ -11,7 +11,7 @@ In order to pass the course, students have to:
 <!-- TODO -->
 1. attend and take part in the group's midterm presentation and final presentations (both of them),
 2. show a sufficient level of cooperation and communication with students, supervisor(s) and geo-information professionals (see [Rubric individual work](./work.md)), 
-3. submit a sufficient reflection on the quality of the (midterm) project result(s), on the feasibility to implement the project result(s) in practice, and on their own performance in the project, obtain a pass for their individual project strategy proposal (see XXXXXX), and
+3. submit a sufficient reflection on the quality of the (midterm) project result(s), on the feasibility to implement the project result(s) in practice, and on their own performance in the project (see [Rubric individual work](./work.md)), and
 4. show to have performed a sufficient amount of tasks (either quantitative or qualitative) in the project (see [Rubric individual work](./work.md)).
 
 To pass the course, a group mark and an individual mark of at least a 5.75 is required. Students that fail the course have to do a repair assignment for a maximum grade of a 6.0 for the course.
