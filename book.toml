@@ -16,11 +16,11 @@ extra-watch-dirs = []             # directories to watch for triggering builds
 command = "mdbook-admonish"
 assets_version = "3.0.2" # do not edit: managed by `mdbook-admonish install`
 
-[preprocessor.hide]
-hide = true
+# [preprocessor.hide]
+# hide = true
 
-[preprocessor.image-size]
-command = "mdbook-image-size"
+# [preprocessor.image-size]
+# command = "mdbook-image-size"
 
 [preprocessor.toc]
 command = "mdbook-toc"
