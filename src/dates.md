@@ -6,7 +6,7 @@
 |   **day**  |  **time**    | **what** |**room**|
 |------------|--------------|----------|--------|
 | 2024-09-02 | 13:45--15:45 | Introduction GEO1101               | room Q |            
-| 2024-09-30 | 09:00--11:00 | Midterm presentations              | room Q |            
+| 2024-09-30 | 08:45--11:30 | Midterm presentations              | room Q |            
 | 2024-11-05 | 09:00--11:00 | Final presentation (technical)     | room Q |            
 | 2024-11-08 | 13:00--17:00 | Final presentation (Geomatics Day) | Berlagezaal |            
 
