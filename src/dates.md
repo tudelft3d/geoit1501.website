@@ -15,7 +15,7 @@
 
 |**day**|**time**|**what**|**how**|
 |-------|--------|--------|-------|
-| 2024-09-06 | 11:59 | short summary of project     | SURFdrive |
+| 2024-09-06 | 17:00 | short summary of project     | SURFdrive |
 | 2024-09-13 | 17:00 | PID document                 | SURFdrive |
 | 2024-09-26 | 17:00 | midterm report               | SURFdrive |
 | 2024-09-27 | 17:00 | team peer-review report      | SURFdrive |
