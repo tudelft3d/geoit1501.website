@@ -38,6 +38,9 @@ Prepare at this stage a written summary of the results of your project. This hel
 
 
 
+### Schedule 2024-09-30
+
+![](./schedule.png)
 
 
 
