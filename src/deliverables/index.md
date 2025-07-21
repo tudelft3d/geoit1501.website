@@ -1,6 +1,14 @@
 
-
 # Deliverables
+
+```{toctree}
+:hidden:
+
+pid
+midterm
+final
+peer-review
+```
 
 The deliverables are in 4 categories:
 
@@ -10,6 +18,6 @@ The deliverables are in 4 categories:
 1. [Peer-review](./peer-review.md)
 
 
-```admonish info
+```{note}
 Each team will get a [SURFdrive link](https://surfdrive.surf.nl) where they can upload all their deliverables.
 ```

@@ -1,19 +1,19 @@
 
 # Course Information
 
-<!-- toc -->
 
 ## Responsible staff
 
-__Bastiaan van Loenen__
-[<i class="fa fa-envelope"></i>](mailto:b.vanloenen@tudelft.nl)
+
+__Bastiaan van Loenen__ 
+[{octicon}`mail`](mailto:b.vanloenen@tudelft.nl)
 
 __Edward Verbree__
-[<i class="fa fa-envelope"></i>](mailto:e.verbree@tudelft.nl)
+[{octicon}`mail`](mailto:e.verbree@tudelft.nl)
 
 __Hugo Ledoux__
-[<i class="fa fa-home"></i>](https://3d.bk.tudelft.nl/hledoux) 
-[<i class="fa fa-envelope"></i>](mailto:h.ledoux@tudelft.nl)
+[{octicon}`home`](https://3d.bk.tudelft.nl/hledoux) 
+[{octicon}`mail`](mailto:h.ledoux@tudelft.nl)
 
 
 ## Expected prior knowledge 

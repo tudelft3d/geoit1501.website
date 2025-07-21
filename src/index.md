@@ -1,8 +1,4 @@
-
-
 # Synthesis Project 👩‍🔧👨‍🔧
-
-
 
 
 |    | projet | client(s) | supervisors(s) | 
@@ -12,3 +8,19 @@
 | 3  | Shady Amsterdam | [Gemeente Amsterdam](https://amsterdam.nl) + [MIT Senseable City Lab](https://senseable.mit.edu/) | [Lukas Beuster](https://3d.bk.tudelft.nl/lbeuster) + [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux) |
 | 4  | Gaussian Splatting and Heritage BIM | [3D Geodata Academy](https://learngeodata.eu/) | Edward Verbree |
 | 5  | Explorative Point Cloud Virtual Reality – Immersive Visual Insight | [Geodelta](https://www.geodelta.com/en) | Edward Verbree |
+
+
+
+```{toctree}
+:maxdepth: 0
+:hidden:
+
+news
+about
+dates
+deliverables/index
+grading/index
+templates/index
+faq
+```
+

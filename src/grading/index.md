@@ -1,4 +1,16 @@
+
 # Grading
+
+
+```{toctree}
+:hidden:
+
+reflection
+report
+work
+task_distribution
+```
+
 
 Your final grade is compiled from:
 
@@ -22,7 +34,7 @@ If a student fails, then the student has to take the course in another academic 
 Each student will have to attend an individual oral assessment with their TUDelft supervisors at the end.
 This is done to ensure that all members of the teams work equally, to evaluate performance of each student, and that of the group.
 
-```admonish info
+```{note} 
 This meeting will be planned by the supervisors, and there is nothing specific to prepare.
 ```
 

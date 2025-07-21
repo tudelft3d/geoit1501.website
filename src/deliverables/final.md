@@ -16,12 +16,12 @@ Examples of outputs that can be considered:
 1. a dataset that the client will be able to use in the future
 1. a website that the client wanted to have built
 
-In the report, please include the [task distribution table](./grading/task_distribution.md).
+In the report, please include the [task distribution table](../grading/task_distribution.md).
 
 See [example reports from previous years](https://www.tudelft.nl/onderwijs/opleidingen/masters/gm/msc-geomatics/programme/synthesis-project/).
 
 
-```admonish info
+```{note}
 No need to copy the code in the report, put it on GitHub and give a URL in the report.
 
 After green light of your TU Delft supervisors, the final report should also be uploaded to the [TU Delft repository](https://repository.tudelft.nl) ([how to do that](https://tudelft-lib-research.gitbook.io/tu-delft-library-user-instructions/thesis/how-to-upload-your-thesis)).
