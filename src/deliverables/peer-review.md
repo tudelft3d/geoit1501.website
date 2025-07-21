@@ -13,6 +13,4 @@ You can use the [Rubric for final group report/deliverables](../grading/work.md)
 |------|-----------|--------|
 | 1    |   ➡️     |  2      |   
 | 2    |   ➡️     |  3      |   
-| 3    |   ➡️     |  4      |   
-| 4    |   ➡️     |  5      |   
-| 5    |   ➡️     |  1      |   
+| 3    |   ➡️     |  1      |   
