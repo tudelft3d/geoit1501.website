@@ -16,7 +16,7 @@
 # -- Project information -----------------------------------------------------
 
 project = "GEOIT1501.2025"
-copyright = "2024, TU Delft"
+copyright = "2025, TU Delft"
 # author = 'Hugo Ledoux'
 
 
@@ -55,7 +55,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 html_theme = "furo"
 html_title = "GEOIT1501.2025"
 html_theme_options = {
-    "source_repository": "https://github.com/tudelft3d/geo1101.website/",
+    "source_repository": "https://github.com/tudelft3d/geoit1501.website/",
     "source_branch": "main",
     "source_directory": "src",
 }
