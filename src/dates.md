@@ -11,6 +11,9 @@
 | 2025-11-07 | 13:00--17:00 | Final presentations (Geomatics Day) | Berlagezaal |             
 
 
+## Strongly recommended meetings
+Every Monday 1-2pm we will have a Synthesis project in progress meeting. Room TBD.
+
 ## Deadlines
 
 |**day**     |**time**|     **what**                 |  **how**  |
