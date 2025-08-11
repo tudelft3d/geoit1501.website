@@ -10,8 +10,9 @@ final
 peer-review
 ```
 
-The deliverables are in 4 categories:
+The deliverables are:
 
+1. Project summary and visual
 1. [Project Initiation Document (PID)](./pid.md)
 1. [Midterm report+presentation](./midterm.md)
 1. [Final report and presentations (technical + Geomatics Day)](./final.md)
