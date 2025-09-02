@@ -11,8 +11,17 @@
 | 2025-11-07 | 13:00--17:00 | Final presentations (Geomatics Day) | Berlagezaal |             
 
 
-## Strongly recommended meetings
-Every Monday 1-2pm we will have a Synthesis project in progress meeting. Room TBD.
+## Monday Meetings
+
+|   **day**  |  **time**    | **what** |**room**|
+|------------|--------------|----------|--------|
+| 2025-09-15 | 13:45--14:45 |    ?     | Room Q | 
+| 2025-09-22 | 13:45--14:45 |    ?     | Room Q | 
+| 2025-09-29 | 13:45--14:45 |    ?     | Room Q | 
+| 2025-10-06 | 13:45--14:45 |    ?     | Room Q | 
+| 2025-10-13 | 13:45--14:45 |    ?     | Room T | 
+| 2025-10-20 | 13:45--14:45 |    ?     | Room Q | 
+| 2025-10-27 | 13:45--14:45 |    ?     | Room Z |
 
 ## Deadlines
 
@@ -26,16 +35,3 @@ Every Monday 1-2pm we will have a Synthesis project in progress meeting. Room TB
 | 2025-10-31 | 17:00  | final draft report           | SURFdrive |
 | 2025-11-06 | 17:00  | upload final presentation    | SURFdrive |
 | 2025-11-14 | 17:00  | upload final deliverables    | TUDelft repository |
-
-
-## Monday Meetings
-
-|   **day**  |  **time**    | **what** |**room**|
-|------------|--------------|----------|--------|
-| 2025-09-15 | 13:45--14:45 |    ?     | Room Q | 
-| 2025-09-22 | 13:45--14:45 |    ?     | Room Q | 
-| 2025-09-29 | 13:45--14:45 |    ?     | Room Q | 
-| 2025-10-06 | 13:45--14:45 |    ?     | Room Q | 
-| 2025-10-13 | 13:45--14:45 |    ?     | Room T | 
-| 2025-10-20 | 13:45--14:45 |    ?     | Room Q | 
-| 2025-10-27 | 13:45--14:45 |    ?     | Room Z |
