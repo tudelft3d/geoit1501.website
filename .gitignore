@@ -1,3 +1,4 @@
 # Specify filepatterns you want git to ignore.
 
 _build/*
+deploy.sh
