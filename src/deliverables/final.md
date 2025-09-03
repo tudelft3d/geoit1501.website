@@ -35,7 +35,7 @@ This presentation will focus on the **technical aspects** of the research perfor
 The audience is your fellow students and the staff of Geomatics.
 The idea is that you present and discuss the engineering details of the project, and you can assume that the audience is knowledgeable and thus there is no need to simplify the talk.
 
-- 15min presentation
+- 20min presentation
 - 5min reflection/question from the [peer-review team](./peer-review.md)
 - 5min reflection/question from the supervisors
 - 5min general discussion
@@ -47,7 +47,5 @@ Feedback will be provided on the content of the research as well as on the prese
 
 This is the presentation for a general audience, and thus should be accessible and understandable by laypersons (who work in the field of Geomatics)
 
-- 10min presentation
+- 15min presentation
 - 5min question from the audience.
-
-
