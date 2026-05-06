@@ -9,9 +9,9 @@
 | 2 | Topotijdreis & Histovec | Edward Verbree | Vincent van Altena, Kadaster|
 | 3 | Allmaps | Martijn Meijers + Edward Verbree | Jules Schoonman, TUDelft library |
 | 4 | European Point Cloud Data collection and display | [Daan vd Heiden](https://3d.bk.tudelft.nl/dvdheide/) + [Maarten Pronk](https://www.evetion.nl/) + Gina | Rijkswaterstaat + Deltares|
-| 5 | Inclusive Campus Map: Mapping Perceived Campus Safety | Bastiaan + Gina | TUDelft |
-| 6 | Automatic tree reconstruction for CFD simulations - tree4cfd |Clara + [Themis Vargiemezis](https://3d.bk.tudelft.nl/tvargiemezis) | RoyalHaskoning |
-| 7 | Colourful (but efficient!) buildings: Towards Building Renovation Passport | Giorgio + [Hiba Doi](https://3d.bk.tudelft.nl/hiba/) | Vitek VABI|
+| 5 | Inclusive Campus Map: Mapping Perceived Campus Safety | Bastiaan + Gina + [Ana Petrović](https://research.tudelft.nl/en/persons/a-petrovi%C4%87/) | TUDelft |
+| 6 | Automatic tree reconstruction for CFD simulations - tree4cfd |Clara + [Themis Vargiemezis](https://3d.bk.tudelft.nl/tvargiemezis) | Haskoning |
+| 7 | Colourful (and efficient!) buildings: Towards Building Renovation Passport | Giorgio + [Hiba Doi](https://3d.bk.tudelft.nl/hiba/) | Vitek VABI|
 
 
 
