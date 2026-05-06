@@ -5,10 +5,10 @@
 
 |   **day**  |  **time**    | **what**                            |**room**|
 |------------|--------------|-------------------------------------|--------|
-| 2025-09-?? | ??           | Introduction GEOIT1501              | Room Q      |             
-| 2025-09-?? | ??           | Midterm presentations               | Room Q      |            
-| 2025-11-?? | ??           | Final presentations (technical)     | Room U      |             
-| 2025-11-06 | 13:00--17:00 | Final presentations (Geomatics Day) | Berlagezaal |             
+| 2026-09-?? | ??           | Introduction GEOIT1501              | Room Q      |             
+| 2026-09-?? | ??           | Midterm presentations               | Room Q      |            
+| 2026-11-?? | ??           | Final presentations (technical)     | Room U      |             
+| 2026-11-06 | 13:00--17:00 | Final presentations (Geomatics Day) | Berlagezaal |             
 
 
 <!--## Monday Meetings

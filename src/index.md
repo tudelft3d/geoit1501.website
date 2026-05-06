@@ -5,7 +5,7 @@
 
 | # | topic | tudelft staff | company |
 |---|-------|---------------|---------|
-| 1 | Munitiemagazijncomplex (MMC) van de toekomst | Edward Verbree | Koen Winters, TNO-Defensie |
+| 1 | Munition magazine complex (MMC) of the future | Edward Verbree | Koen Winters, TNO-Defensie |
 | 2 | Histovec Topotijdreis | Edward Verbree | Vincent van Altena, Kadaster|
 | 3 | Allmaps | Martijn Meijkers + Edward Verbree | Jules Schoonman, TUDelft library|
 | 4 | European Point Cloud Data collection and display | [Daan vd Heiden](https://3d.bk.tudelft.nl/dvdheide/) + [Maarten Pronk](https://www.evetion.nl/) | Rijkswaterstaat + Deltares|
