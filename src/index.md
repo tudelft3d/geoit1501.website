@@ -6,8 +6,8 @@
 | # | topic | tudelft staff | company |
 |---|-------|---------------|---------|
 | 1 | Munition magazine complex (MMC) of the future | Edward Verbree | Koen Winters, TNO-Defensie |
-| 2 | Histovec Topotijdreis | Edward Verbree | Vincent van Altena, Kadaster|
-| 3 | Allmaps | Martijn Meijkers + Edward Verbree | Jules Schoonman, TUDelft library|
+| 2 | Topotijdreis & Histovec | Edward Verbree | Vincent van Altena, Kadaster|
+| 3 | Allmaps | Martijn Meijers + Edward Verbree | Jules Schoonman, TUDelft library |
 | 4 | European Point Cloud Data collection and display | [Daan vd Heiden](https://3d.bk.tudelft.nl/dvdheide/) + [Maarten Pronk](https://www.evetion.nl/) | Rijkswaterstaat + Deltares|
 | 5 | Inclusive Campus Map: Mapping Perceived Campus Safety | Bastiaan + Gina | TUDelft |
 | 6 | Automatic tree reconstruction for CFD simulations - tree4cfd |Clara + [Themis Vargiemezis](https://3d.bk.tudelft.nl/tvargiemezis) | RoyalHaskoning |
