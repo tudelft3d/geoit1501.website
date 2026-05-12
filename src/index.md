@@ -1,22 +1,34 @@
 # Synthesis Project 👩‍🔧👨‍🔧
 
 
-## Potential topics for 2026
+## Topics for 2026
 
-| # | topic | tudelft staff | company |
-|---|-------|---------------|---------|
-| 1 | Munition magazine complex (MMC) of the future | Edward Verbree | Koen Winters, TNO-Defensie |
-| 2 | Topotijdreis & Histovec | Edward Verbree | Vincent van Altena, Kadaster|
-| 3 | Open map room | Martijn Meijers + Edward Verbree | Jules Schoonman, TUDelft library |
-| 4 | European Point Cloud Data collection and display | [Daan vd Heide](https://3d.bk.tudelft.nl/dvdheide/) + [Maarten Pronk](https://www.evetion.nl/) + Gina | Rijkswaterstaat + Deltares|
-| 5 | Inclusive Campus Map: Mapping Perceived Campus Safety | Bastiaan + Gina + [Ana Petrović](https://research.tudelft.nl/en/persons/a-petrovi%C4%87/) | TUDelft |
-| 6 | Automatic tree reconstruction for CFD simulations - tree4cfd |Clara + [Themis Vargiemezis](https://3d.bk.tudelft.nl/tvargiemezis) | Haskoning |
-| 7 | Colourful (and efficient!) buildings: Towards Building Renovation Passport | Giorgio + [Hiba Doi](https://3d.bk.tudelft.nl/hiba/) | Vitec Vabi|
+```{note}
+We decided **not** to run Project #1 with TNO because, after discussions, it was not certain that all three students would join the project, and one coul not be available for the full period.
+This project was entirely led by TNO, with limited TU Delft involvement, so we could only run it if participation was fully confirmed because we are committing to an external partner.
 
-[⬇️ All the sides](https://surfdrive.surf.nl/s/p4cDDpbtE96eQXW)
+Students whose project is no longer going ahead can speak to the two teams and the associated supervisors to see whether they can still be added; there is space.
+```
 
 
-## How to choose?
+| # | topic | tudelft staff | company | students |
+|---|-------|---------------|---------|----------|
+| 4 | European Point Cloud Data collection and display | [Daan vd Heide](https://3d.bk.tudelft.nl/dvdheide/) + [Maarten Pronk](https://www.evetion.nl/) + Gina | Rijkswaterstaat + Deltares| Ruben Vons, Artemi Kurski, Arda Baysal |
+| 6 | Automatic tree reconstruction for CFD simulations - tree4cfd |Clara + [Themis Vargiemezis](https://3d.bk.tudelft.nl/tvargiemezis) | Haskoning |Evangelia Palli, Anna Scherrenburg, Henryk Gujda, Simon Deuten |
+| 1 | ~~Munition magazine complex (MMC) of the future~~ | ~~Edward Verbree~~ | ~~Koen Winters, TNO-Defensie~~ ||
+| 2 | ~~Topotijdreis & Histovec~~ | ~~Edward Verbree~~ | ~~Vincent van Altena, Kadaster~~||
+| 3 | ~~Open map room~~ | ~~Martijn Meijers + Edward Verbree~~ | ~~Jules Schoonman, TUDelft library~~ ||
+| 5 | ~~Inclusive Campus Map: Mapping Perceived Campus Safety~~ | ~~Bastiaan + Gina + [Ana Petrović](https://research.tudelft.nl/en/persons/a-petrovi%C4%87/)~~ | ~~TUDelft~~ ||
+| 7 | ~~Colourful (and efficient!) buildings: Towards Building Renovation Passport~~ | ~~Giorgio + [Hiba Doi](https://3d.bk.tudelft.nl/hiba/)~~ | ~~Vitec Vabi~~ ||
+
+[⬇️ All the slides](https://surfdrive.surf.nl/s/p4cDDpbtE96eQXW)
+
+The voting sheet is available here: <https://surfdrive.surf.nl/s/MWCWGbzWEa3xqga>.
+
+
+
+
+<!--## How to choose?
 
 **Deadline to do this ==> Monday 11 May 2026 at 11:00 in the morning!**
 
@@ -24,8 +36,8 @@ OK, we would like to move fast and have all the groups and topics formed before 
 
 So the idea is the following:
 
-You form your own groups and write directly the names of the members (first name + family name) in this public spreadsheet: <https://surfdrive.surf.nl/s/MWCWGbzWEa3xqga>
-
+You form your own groups and write directly the names of the members (first name + family name) in this public spreadsheet: <https://surfdrive.surf.nl/s/MWCWGbzWEa3xqga>-->
+<!--
 Teams have minimum=4 and maximum=6
 
 If there are students without teams, then we will see and bundle them together, so use the last column to indicate that you want to do GEOIT1501, but you don't have a team.
@@ -35,7 +47,7 @@ If you plan to *not* do the synthesis then please write it in the last column to
 
 It should look like this:
 
-![](./img/surf-example.png)
+![](./img/surf-example.png)-->
 
 
 
