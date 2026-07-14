@@ -11,7 +11,7 @@
 | 2026-11-06 | 13:00-17:00  | Final presentations (Geomatics Day) | Berlagezaal |             
 
 
-<--**## Monday Meetings**
+<--!**## Monday Meetings**
 
 |   **day**  |  **time**    | **what** |**room**|
 |------------|--------------|----------|--------|
