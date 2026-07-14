@@ -6,12 +6,12 @@
 |   **day**  |  **time**    | **what**                            |**room**|
 |------------|--------------|-------------------------------------|--------|
 | 2026-09-01 | 10:00-12:00  | Introduction GEOIT1501              | Room       |             
-| 2026-10-05 | 11:00-12:00  | Midterm presentations               | Room       |            
-| 2026-11-03 | 11:00-12:00  | Final presentations (technical)     | Room       |             
+| 2026-10-05 | 11:00-12:30  | Midterm presentations               | Room       |            
+| 2026-11-03 | 11:00-12:30  | Final presentations (technical)     | Room       |             
 | 2026-11-06 | 13:00-17:00  | Final presentations (Geomatics Day) | Berlagezaal |             
 
 
-<!--## Monday Meetings
+**## Monday Meetings**
 
 |   **day**  |  **time**    | **what** |**room**|
 |------------|--------------|----------|--------|
@@ -25,9 +25,7 @@
 
 ## Deadlines
 
-TBA
-
-<!--|**day**     |**time**|     **what**                 |  **how**  |
+|**day**     |**time**|     **what**                 |  **how**  |
 |------------|--------|------------------------------|-----------|
 | 2026-09-04 | 17:00  | short summary of project     | SURFdrive |
 | 2026-09-11 | 17:00  | PID document                 | SURFdrive |
