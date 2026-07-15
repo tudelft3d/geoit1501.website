@@ -6,7 +6,7 @@
 |   **day**  |  **time**    | **what**                            |**room**|
 |------------|--------------|-------------------------------------|--------|
 | 2026-08-31 | 13:45-15:45  | Introduction GEOIT1501              | Room    Q|             
-| 2026-10-05 | 11:00-12:30  | Midterm presentations               | Room  BG.Oost.620  |            
+| 2026-10-05 | 11:00-12:30  | Midterm presentations               | Room  BG.Oost.620 |            
 | 2026-11-03 | 10:15-11:45  | Final presentations (technical)     | Room    Q |             
 | 2026-11-06 | 13:00-17:00  | Final presentations (Geomatics Day) | Berlagezaal |             
 
