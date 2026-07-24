@@ -22,6 +22,7 @@ In order to pass the course, students have to:
 2. show a sufficient level of Technical Quality, Commitment, Attitude, Initiative, Management of Resources, and Communication (with students, supervisor(s) and geo-information professionals) (see [Rubric individual work](./work.md)), 
 3. submit a sufficient reflection on the quality of the (midterm) project result(s), on the feasibility to implement the project result(s) in practice, and on their own performance in the project (see [Rubric reflection](./reflection.md)), and
 4. show to have performed a sufficient amount of tasks (either quantitative or qualitative) in the project (see [Task distribution](./task_distribution.md)).
+5. submit their reflection on the Team performance (see [Rubric team performance](./team_performance.md)) 
 
 To pass the course, at least a 5.75 is required. 
 Students that fail the course have to do a repair assignment for a maximum grade of a 6.0 for the course.
