@@ -11,3 +11,9 @@
 |**Respect & Inclusion**|	Did everyone have opportunities to participate? Were different viewpoints valued?	|Values all perspectives and creates an inclusive environment.|	Treats others respectfully and includes most members.	|Sometimes overlooks or excludes others' ideas.|	Shows disrespect or excludes others.|
 |**Decision-Making**	|How were decisions made? Did everyone have a voice?	|Decisions are made collaboratively using evidence and discussion.	|Most decisions involve group input.	|Some decisions are dominated by a few members.|	Decisions are made without meaningful collaboration.|
 |**Overall Effectiveness**|What is the group's greatest strength? What should be improved?	|Group functioned exceptionally well and exceeded expectations.|	Group met objectives effectively.	|Group met some objectives but with noticeable difficulties.	|Group struggled to achieve objectives.|
+
+In your reflection of the team performance address all Reflection questions from the rubric (second column) and also briefly answer the following questions:
+1.	What is the group's biggest strength? 
+3.	What would you do differently in the coming weeks? 
+4.	What specific contribution from a teammate most helped the group's success (name for each team mate one contribution)? 
+5.	What is one personal collaboration skill you want to improve? 
