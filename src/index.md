@@ -13,13 +13,13 @@ Students whose project is no longer going ahead can speak to the two teams and t
 
 | # | topic | tudelft staff | company | students |
 |---|-------|---------------|---------|----------|
-| 4 | European Point Cloud Data collection and display | [Daan vd Heide](https://3d.bk.tudelft.nl/dvdheide/) + [Maarten Pronk](https://www.evetion.nl/) + Gina | Rijkswaterstaat + Deltares| Ruben Vons, Artemi Kurski, Arda Baysal |
-| 6 | Automatic tree reconstruction for CFD simulations - tree4cfd |Clara + [Themis Vargiemezis](https://3d.bk.tudelft.nl/tvargiemezis) | Haskoning |Evangelia Palli, Anna Scherrenburg, Henryk Gujda, Simon Deuten |
-| 1 | ~~Munition magazine complex (MMC) of the future~~ | ~~Edward Verbree~~ | ~~Koen Winters, TNO-Defensie~~ ||
-| 2 | ~~Topotijdreis & Histovec~~ | ~~Edward Verbree~~ | ~~Vincent van Altena, Kadaster~~||
-| 3 | ~~Open map room~~ | ~~Martijn Meijers + Edward Verbree~~ | ~~Jules Schoonman, TUDelft library~~ ||
-| 5 | ~~Inclusive Campus Map: Mapping Perceived Campus Safety~~ | ~~Bastiaan + Gina + [Ana Petrović](https://research.tudelft.nl/en/persons/a-petrovi%C4%87/)~~ | ~~TUDelft~~ ||
-| 7 | ~~Colourful (and efficient!) buildings: Towards Building Renovation Passport~~ | ~~Giorgio + [Hiba Doi](https://3d.bk.tudelft.nl/hiba/)~~ | ~~Vitec Vabi~~ ||
+| 1 | European Point Cloud Data collection and display | [Daan vd Heide](https://3d.bk.tudelft.nl/dvdheide/) + [Maarten Pronk](https://www.evetion.nl/) + Gina | Rijkswaterstaat + Deltares| Ruben Vons, Artemi Kurski, Arda Baysal |
+| 2 | Automatic tree reconstruction for CFD simulations - tree4cfd |Clara + [Themis Vargiemezis](https://3d.bk.tudelft.nl/tvargiemezis) | Haskoning |Evangelia Palli, Anna Scherrenburg, Henryk Gujda, Simon Deuten |
+|  | ~~Munition magazine complex (MMC) of the future~~ | ~~Edward Verbree~~ | ~~Koen Winters, TNO-Defensie~~ ||
+|  | ~~Topotijdreis & Histovec~~ | ~~Edward Verbree~~ | ~~Vincent van Altena, Kadaster~~||
+|  | ~~Open map room~~ | ~~Martijn Meijers + Edward Verbree~~ | ~~Jules Schoonman, TUDelft library~~ ||
+|  | ~~Inclusive Campus Map: Mapping Perceived Campus Safety~~ | ~~Bastiaan + Gina + [Ana Petrović](https://research.tudelft.nl/en/persons/a-petrovi%C4%87/)~~ | ~~TUDelft~~ ||
+|  | ~~Colourful (and efficient!) buildings: Towards Building Renovation Passport~~ | ~~Giorgio + [Hiba Doi](https://3d.bk.tudelft.nl/hiba/)~~ | ~~Vitec Vabi~~ ||
 
 [⬇️ All the slides](https://surfdrive.surf.nl/s/p4cDDpbtE96eQXW)
 
