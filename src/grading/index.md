@@ -19,10 +19,9 @@ Your final grade is based on:
 In order to pass the course, students have to:
 
 1. attend and take part in introduction lecture, the midterm presentation session and final presentation sessions,
-2. show a sufficient level of Technical Quality, Commitment, Attitude, Initiative, Management of Resources, and Communication (with students, supervisor(s) and geo-information professionals) (see [Rubric individual work](./work.md)), 
-3. submit a sufficient reflection on the quality of the (midterm) project result(s), on the feasibility to implement the project result(s) in practice, and on their own performance in the project (see [Rubric reflection](./reflection.md)), and
+2. submit a sufficient reflection on the Team performance (see [Rubric team performance](./team_performance.md))
+3. provide a sufficient reflection on the quality of the final project result(s), on the feasibility to implement the project result(s) in practice, and on their own performance in the project (see [Rubric reflection](./reflection.md)), and
 4. show to have performed a sufficient amount of tasks (either quantitative or qualitative) in the project (see [Task distribution](./task_distribution.md)).
-5. submit their reflection on the Team performance (see [Rubric team performance](./team_performance.md)) 
 
 To pass the course, at least a 5.75 is required. 
 Students that fail the course have to do a repair assignment for a maximum grade of a 6.0 for the course.
@@ -38,9 +37,8 @@ This is done to ensure that all members of the teams work equally, to evaluate p
 This meeting will be scheduled by the supervisors, and there is nothing specific to prepare.
 ```
 
-## Four rubrics are used
+## Three rubrics are used
 
 1. [Rubric group report](./report.md)
 1. [Rubric reflection](./reflection.md)
-1. [Rubric individual work](./work.md)
 1. [Rubric team performance](./team_performance.md) 
