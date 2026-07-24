@@ -12,5 +12,4 @@ You can use the [Rubric for final group report/deliverables](../grading/work.md)
 | team # | reviews | team # |
 |------|-----------|--------|
 | 1    |   ➡️     |  2      |   
-| 2    |   ➡️     |  3      |   
-| 3    |   ➡️     |  1      |   
+| 2    |   ➡️     |  1      |      
