@@ -38,9 +38,9 @@ This is done to ensure that all members of the teams work equally, to evaluate p
 This meeting will be scheduled by the supervisors, and there is nothing specific to prepare.
 ```
 
-## Three rubrics are used
+## Four rubrics are used
 
 1. [Rubric group report](./report.md)
 1. [Rubric reflection](./reflection.md)
 1. [Rubric individual work](./work.md)
-
+1. [Rubric team performance](./team_performance.md) 
