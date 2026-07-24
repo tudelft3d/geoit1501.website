@@ -20,7 +20,7 @@ In order to pass the course, students have to:
 
 1. attend and take part in both the midterm presentation session and final presentation session,
 2. show a sufficient level of cooperation and communication with students, supervisor(s) and geo-information professionals (see NEW RUBRIC), 
-3. submit a sufficient reflection on the quality of the (midterm) project result(s), on the feasibility to implement the project result(s) in practice, and on their own performance in the project (see [Rubric individual work](./work.md)), and
+3. submit a sufficient reflection on the quality of the (midterm) project result(s), on the feasibility to implement the project result(s) in practice, and on their own performance in the project (see [Rubric reflection](./reflection.md)), and
 4. show to have performed a sufficient amount of tasks (either quantitative or qualitative) in the project (see [Task distribution](./task_distribution.md)).
 
 To pass the course, at least a 5.75 is required. 
