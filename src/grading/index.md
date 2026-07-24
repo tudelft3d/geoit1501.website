@@ -18,8 +18,8 @@ Your final grade is based on:
 
 In order to pass the course, students have to:
 
-1. attend and take part in both the midterm presentation session and final presentation session,
-2. show a sufficient level of cooperation and communication with students, supervisor(s) and geo-information professionals, 
+1. attend and take part in introduction lecture, the midterm presentation session and final presentation sessions,
+2. show a sufficient level of Technical Quality, Commitment, Attitude, Initiative, Management of Resources, and Communication (with students, supervisor(s) and geo-information professionals) (see [Rubric individual work](./work.md)), 
 3. submit a sufficient reflection on the quality of the (midterm) project result(s), on the feasibility to implement the project result(s) in practice, and on their own performance in the project (see [Rubric reflection](./reflection.md)), and
 4. show to have performed a sufficient amount of tasks (either quantitative or qualitative) in the project (see [Task distribution](./task_distribution.md)).
 
