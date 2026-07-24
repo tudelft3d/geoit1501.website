@@ -15,8 +15,9 @@ The deliverables are:
 1. Project summary and visual
 1. [Project Initiation Document (PID)](./pid.md)
 1. [Midterm report+presentation](./midterm.md)
-1. [Final report and presentations (technical + Geomatics Day)](./final.md)
-1. [Peer-review](./peer-review.md)
+1. [Reflection on team performance](../team_performance.md)
+1. [Final report and presentations (technical + Geomatics Day)](./final.md) including task distribution (see )
+1. [Peer-review](./peer-review.md) report
 
 
 ```{note}
