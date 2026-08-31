@@ -1,6 +1,10 @@
 
 # News
 
+{bdg-secondary}`2026-08-31`
+And we're starting
+
+
 {bdg-secondary}`2026-05-06`
 Potential topics have been added
 
