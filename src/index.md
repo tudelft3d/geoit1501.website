@@ -3,27 +3,16 @@
 
 ## Topics for 2026
 
-```{note}
-We decided **not** to run Project #1 with TNO because, after discussions, it was not certain that all three students would join the project, and one coul not be available for the full period.
-This project was entirely led by TNO, with limited TU Delft involvement, so we could only run it if participation was fully confirmed because we are committing to an external partner.
-
-Students whose project is no longer going ahead can speak to the two teams and the associated supervisors to see whether they can still be added; there is space.
-```
 
 
 | # | topic | tudelft staff | company | students |
 |---|-------|---------------|---------|----------|
 | 1 | European Point Cloud Data collection and display | [Daan vd Heide](https://3d.bk.tudelft.nl/dvdheide/) + [Maarten Pronk](https://www.evetion.nl/) + Gina | Rijkswaterstaat + Deltares| Ruben Vons, Artemi Kurski, Arda Baysal |
-| 2 | Automatic tree reconstruction for CFD simulations - tree4cfd |Clara + [Themis Vargiemezis](https://3d.bk.tudelft.nl/tvargiemezis) | Haskoning |Evangelia Palli, Anna Scherrenburg, Henryk Gujda, Simon Deuten |
-|  | ~~Munition magazine complex (MMC) of the future~~ | ~~Edward Verbree~~ | ~~Koen Winters, TNO-Defensie~~ ||
-|  | ~~Topotijdreis & Histovec~~ | ~~Edward Verbree~~ | ~~Vincent van Altena, Kadaster~~||
-|  | ~~Open map room~~ | ~~Martijn Meijers + Edward Verbree~~ | ~~Jules Schoonman, TUDelft library~~ ||
-|  | ~~Inclusive Campus Map: Mapping Perceived Campus Safety~~ | ~~Bastiaan + Gina + [Ana Petrović](https://research.tudelft.nl/en/persons/a-petrovi%C4%87/)~~ | ~~TUDelft~~ ||
-|  | ~~Colourful (and efficient!) buildings: Towards Building Renovation Passport~~ | ~~Giorgio + [Hiba Doi](https://3d.bk.tudelft.nl/hiba/)~~ | ~~Vitec Vabi~~ ||
+| 2 | Automatic tree reconstruction for CFD simulations - tree4cfd |Clara + [Themis Vargiemezis](https://3d.bk.tudelft.nl/tvargiemezis) | Haskoning | Anna Scherrenburg, Henryk Gujda, Simon Deuten |
 
-[⬇️ All the slides](https://surfdrive.surf.nl/s/p4cDDpbtE96eQXW)
+<!--[⬇️ All the slides](https://surfdrive.surf.nl/s/p4cDDpbtE96eQXW)
 
-The voting sheet is available here: <https://surfdrive.surf.nl/s/MWCWGbzWEa3xqga>.
+The voting sheet is available here: <https://surfdrive.surf.nl/s/MWCWGbzWEa3xqga>.-->
 
 
 
